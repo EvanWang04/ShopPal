@@ -1,5 +1,37 @@
 # ShopPal
 
+## How to Run
+
+### Server Setup
+
+1. Clone the repository and navigate to the server directory:
+
+`git clone https://github.com/EvanWang04/ShopPal`
+
+`cd ShopPal/server`
+
+2. Install dependencies:
+
+`npm install`
+
+3. Start the server:
+
+`npm start`
+
+The server will run on `http://localhost:3000`.
+
+### Swift Mobile App Setup
+
+1. Navigate to the mobile app directory:
+
+`cd ShopPal` (root directory)
+
+3. Open the Xcode project:
+
+`open ShopPal.xcworkspace`
+
+4. Build and run the app in Xcode.
+
 ## What it does:
 ShopPal is an IOS app that allows users to take a picture of their receipts and save them in the app. Users can then view, sort and organize their receipts at any time.
 
